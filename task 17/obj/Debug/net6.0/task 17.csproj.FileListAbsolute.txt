@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\C#seminars\task 17\bin\Debug\net6.0\task 17.exe
+C:\Users\Ольга\Desktop\C#seminars\task 17\bin\Debug\net6.0\task 17.deps.json
+C:\Users\Ольга\Desktop\C#seminars\task 17\bin\Debug\net6.0\task 17.runtimeconfig.json
+C:\Users\Ольга\Desktop\C#seminars\task 17\bin\Debug\net6.0\task 17.dll
+C:\Users\Ольга\Desktop\C#seminars\task 17\bin\Debug\net6.0\task 17.pdb
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.dll
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\refint\task 17.dll
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.pdb
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\task 17.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\C#seminars\task 17\obj\Debug\net6.0\ref\task 17.dll
