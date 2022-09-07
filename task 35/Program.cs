@@ -13,5 +13,20 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-int[] array = GetArray(12, -9, 9);
+int[] array = GetArray(123, 0, 200);
 Console.WriteLine(String.Join(" ", array));
+
+int checed(int[] mas)
+{
+    int  count = 0;
+    for(int i = 0; i < mas.Length; i++)
+    {
+        if ((10 <= mas[i]) && (100 > mas[i]))
+        {
+            count++;
+        }
+    }
+    return count;
+}
+
+Console.WriteLine($" {checed (array)}");
