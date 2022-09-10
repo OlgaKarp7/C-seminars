@@ -31,3 +31,21 @@ int[] ReversArray(int[] array)
 int[] myArray = GetArray(5, 0, 10);
 Console.WriteLine(String.Join(" ", myArray));
 Console.WriteLine(String.Join(" ", ReversArray(myArray)));
+
+
+int[] ReversArray2(int[] array)
+{
+    for (int i = 0; i < array.Length / 2; i++)
+    {
+        int temp = array[i];
+        array[i] = array[array.Length - 1 - i];
+        array[array.Length - 1 - i] = temp;
+    }
+    return array;
+                                             
+}
+
+
+Console.WriteLine(String.Join(" ", myArray));
+Console.WriteLine(String.Join(" ", ReversArray(myArray)));
+Console.WriteLine(String.Join(" ", ReversArray2(myArray)));
