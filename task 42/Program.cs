@@ -16,6 +16,6 @@ int GetBinary(int num)
         
     }
     result. ToCharArray().Reverse(); //строку дробим на массив букв, а потом переворачиваем
-    return int.Parse(result);
+    return int.Parse(result);//метод int.Parse преобразовывает из строки в число
 }
 Console.WriteLine($"{GetBinary(number)}");
