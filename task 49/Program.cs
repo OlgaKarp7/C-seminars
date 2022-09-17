@@ -46,3 +46,24 @@ PrintArray(myArray);
 Console.WriteLine();
 myArray = CorrectArray(myArray);
 PrintArray(myArray);
+/*int SumDiagonalArray(int[,] array)
+{
+    int diagSum = 0;
+    for (int i = 0; i < array.GetLength(0); i++) 
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            if (i == j)
+            {
+                diagSum += array[i, j];
+            }
+        }
+    }
+    return diagSum;
+}
+
+int[,] myArray = GetArray(rows, colums);
+PrintArray(myArray);
+Console.WriteLine();
+int resultSum = SumDiagonalArray(myArray);
+Console.WriteLine($"Сумма: {resultSum}");
